@@ -13,4 +13,16 @@ public class Agent : MonoBehaviour {
 	void Update () {
 		
 	}
+
+    // SetName
+
+    // GetName
+
+    // SetState
+
+    // GetState
+
+    // SetVector
+
+    // GetVector
 }
